@@ -1,7 +1,7 @@
 # Monsta Beach
 A 2-day gamejam game (the theme was "Beached") made by Eli Piilonen and David Carney.  You play as a physics-based squiddy-monster and you terrorize a fort on an island.  You climb and smash towers, and also squash little purple dudes who throw (meaningless, tiny, irrelevant) spears at you.
 
-Made with Unity 5.6.1, using C#.
+Made with Unity 5.6.1, using C#.  MIT License: you can use the project for whatever, but you have to tell people that we made it, and don't hold us liable if you do something bad.
 
 There's no win-state, and you have to do Alt-F4 or Command-Q to close it.  ...Like I said, it was a two-day gamejam game.  All in all, we're pretty happy about what we were able to get done!
 
