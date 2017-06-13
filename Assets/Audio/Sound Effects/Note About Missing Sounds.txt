@@ -1,0 +1,3 @@
+Some of our sound effects were taken from libraries, and we're not licensed to redistribute them as individual files - these are not included in the source code, so they'll show up as Missing in the Sounds manager.  The music and a few other sounds are still included.
+
+Sorry for the inconvenience!

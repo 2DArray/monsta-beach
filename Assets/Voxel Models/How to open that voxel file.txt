@@ -1,0 +1,9 @@
+dude.vox is a MagicaVoxel file.
+
+MagicaVoxel is a free voxel editor made by ephtracy.  It's pretty fucking rad, and you should try it some time.
+
+It lets you build voxel models with specialized tools, and then you can export them as 3D models - it's much faster for me to make a prop in MagicaVoxel than in a traditional modeling program...but on the other hand, the voxel style can be limiting in certain gamedev situations.  I feel like it's a really valuable piece of software to have.
+
+https://ephtracy.github.io/
+
+Also I'm not affiliated with it, I just think it's really cool

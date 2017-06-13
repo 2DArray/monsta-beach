@@ -1,0 +1,7 @@
+That sand texture was made in Photoshop CS6 - if you don't have that (or a later version), you should also be able to open it in GIMP (which is free).
+
+https://www.gimp.org/
+
+I've never had a whole lot of luck with GIMP, but I've also encountered people who are really happy with it.  I recommend that you check it out for yourself and see what you think.  There are probably also other ways to open a PSD file if you google around for it.
+
+Honestly though, this texture isn't interesting.  It's just a bunch of dots.
