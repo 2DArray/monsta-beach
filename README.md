@@ -1,9 +1,9 @@
 # Monsta Beach
 A 2-day gamejam game (the theme was "Beached") made by Eli Piilonen and David Carney.  You play as a physics-based squiddy-monster and you terrorize a fort on an island.  You climb and smash towers, and also squash little purple dudes who throw (meaningless, tiny, irrelevant) spears at you.
 
-There's no win-state, and you have to do Alt-F4 or Command-Q to close it.
-
 Made with Unity 5.6.1, using C#.
+
+There's no win-state, and you have to do Alt-F4 or Command-Q to close it.  ...Like I said, it was a two-day gamejam game.  All in all, we're pretty happy about what we were able to get done!
 
 You can download the game for free on [itch.io](https://2darray.itch.io/monsta-beach).  If you think it's cool, you also have the option of paying for it.
 
