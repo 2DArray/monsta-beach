@@ -13,7 +13,7 @@ You can download the game for free on [itch.io](https://2darray.itch.io/monsta-b
 ## Features
   * Strange physical character controller (the character has 8 tentacles and moves by adding torque to its body)
   * Squiddy Climbing (tentacles grab objects, allows climbing up vertical walls)
-  * Basic smashable pre-fractured props (debris disables itself after settling, for performance)
+  * Basic smashable pre-fractured props (debris goes to perma-sleep after settling, for performance)
   * Simple and legible code with mild comments throughout
 
 ## Note about audio
