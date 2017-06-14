@@ -1,4 +1,7 @@
 # Monsta Beach
+
+![That poor monster just wants to play with his friends in the giant wooden sandbox, but they keep disappearing on him.](https://puu.sh/wjlFI/3726844116.png "Smash a fort as a sea monster")
+
 A 2-day gamejam game (the theme was "Beached") made by Eli Piilonen and David Carney.  You play as a physics-based squiddy-monster and you terrorize a fort on an island.  You climb and smash towers, and also squash little purple dudes who throw (meaningless, tiny, irrelevant) spears at you.
 
 Made with Unity 5.6.1, using C#.  MIT License: you can use the project for whatever, but you have to tell people that we made it, and don't hold us liable if you do something bad.
@@ -20,3 +23,10 @@ For licensing reasons, we need to exclude some sound effects from the project fo
 * .blend files:  **Blender** (for various 3D models; free)
 * .vox file: **MagicaVoxel** (for the initial stage of the character modeling process; free)
 * .psd file: **Photoshop CS6** (one basic texture file for sand particles; not free, but free alternatives are available)
+
+## Some known bugs
+
+* The central tower is made of thin sheets instead of being solid (this can cause your arms to get stuck in the surface, and also can cause some invisible walls in its debris chunks)
+* You don't float in the water, and if you go too far into the ocean (not very far), you fall off the world
+* The game has no end-state
+* Grabbing onto flying debris can cause strange midair velocity changes
