@@ -1,6 +1,6 @@
 # Monsta Beach
 
-![That poor monster just wants to play with his friends in the giant wooden sandbox, but they keep disappearing on him.](https://puu.sh/wjlFI/3726844116.png "Smash a fort as a sea monster")
+![Header image should go here...](https://puu.sh/wjlFI/3726844116.png "That poor monster just wants to play with his friends in the giant wooden sandbox, but they keep disappearing on him")
 
 A 2-day gamejam game (the theme was "Beached") made by Eli Piilonen and David Carney.  You play as a physics-based squiddy-monster and you terrorize a fort on an island.  You climb and smash towers, and also squash little purple dudes who throw (meaningless, tiny, irrelevant) spears at you.
 
