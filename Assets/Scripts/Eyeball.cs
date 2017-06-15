@@ -28,13 +28,10 @@ public class Eyeball : MonoBehaviour {
 		}
 
 		if (lookTimer<0f || extremeAngle) {
-			// Pick new look target
+			// Pick new nearby look target (a position in world space)
 			lookTimer=Random.Range(minLookTime,maxLookTime);
 			Vector3 offset= Random.insideUnitSphere*10f;
 			offset.y=Mathf.Abs(offset.y);
-
-			// Note: Offset vector is not transformed as intended
-			// trololo
 			lookTarget=transform.position+transform.parent.TransformDirection(defaultLocalForward)*10f+offset;
 		}
 		Quaternion targetRot=Quaternion.LookRotation(lookTarget-transform.position);
